@@ -31,3 +31,5 @@ Open dan een nieuw terminal om de front-end te runnen via de command line:
 py .\front-end\app.py
 ```
 In de terminal verschijnt dan de link naar de UI (`Dash is running on [link]`)
+
+De applicatie kan gestopt worden met `CTRL+C` in beide terminals.
