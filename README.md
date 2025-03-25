@@ -7,10 +7,10 @@ Deze repo bestaat uit een back-end API in Java die trivia vragen en antwoorden o
 De Java back-end is gebouwd met behulp van Spring Boot.
 
 ## Prerequisites
-Java 21 (OpenJDK 21.0.6)
-Maven 3.9.9
-Python 3.6.8
-dash 2.15.0
+- Java 21 (OpenJDK 21.0.6)
+- Maven 3.9.9
+- Python 3.6.8
+- dash 2.15.0
 
 ## Build Instructions
 De back-end applicatie kan gebouwd worden via de command line:
